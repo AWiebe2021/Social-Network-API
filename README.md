@@ -14,7 +14,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 video that demonstrates its functionality. I’ll need to submit a 
 link to the video and add it to the README of your project.
 
--The link to the video: https://github.com/AWiebe2021/Team_Profile_Generator/blob/1f6a483d3318f2bab07bd3e0058fd18b678a0c14/Team_Profile_Generator.mp4 \
+-The link to the video: https://github.com/AWiebe2021/Social-Network-API/blob/main/Social-Network-API.mp4 \
 -The projects code can be accessed at: https://https://github.com/AWiebe2021/Social-Network-API
 
 ## Screenshot
